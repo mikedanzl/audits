@@ -7,6 +7,8 @@ description: >-
 
 # Worum geht's hier?
 
+![](.gitbook/assets/danzl_schlosserbersee-1024x614.jpg)
+
 ## Wieso dieses Online Buch? 
 
 Ganz einfach: um Informationen für die Praxis aufzubereiten. Im Rahmen meiner Ausbildung zum Lead Auditor für QM Systeme dient es als Vorbereitung und "Übersetzung" der Inhalte für die Praxis. 
