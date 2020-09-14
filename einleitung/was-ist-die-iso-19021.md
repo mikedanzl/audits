@@ -1,5 +1,7 @@
 ---
-description: Definitionen und Zusammenhänge rund um die ISO 19021
+description: >-
+  Definitionen und Zusammenhänge rund um die ISO 19021 - also rund um Audits im
+  Generellen.
 ---
 
 # ISO 19021
