@@ -6,4 +6,5 @@
   * [Allgemeine Definitionen in Management Systemen](test-git/allgemeine-definitionen-in-management-systemen.md)
   * [Spezifische Begriffe für Audits](test-git/spezifische-begriffe-fuer-audits.md)
 * [Audit Prinzipien](audit-prinzipien.md)
+* [Audits und Risiken](audits-und-risiken.md)
 
