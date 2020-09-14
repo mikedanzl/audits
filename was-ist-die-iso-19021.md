@@ -1,7 +1,5 @@
 ---
-description: >-
-  Definitionen und Zusammenhänge rund um die ISO 19021 - also rund um Audits im
-  Generellen.
+description: Im ISo standard 19021 werden ...
 ---
 
 # Audits besser machen mit Hilfe der ISO 19021
