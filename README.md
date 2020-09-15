@@ -1,11 +1,15 @@
 ---
 description: >-
-  Der ISO Standard 19021ist eine Anleitung für das Auditieren von Management
-  Systemen. In diesem Online Buch werden die wichtigsten Prinzipien vorgestellt
-  und in eine praxisnahe Form übersetzt.
+  Audits sind ein wichtiger Bestandteil von Management Systemen. In diesem
+  Online Buch stelle ich Methoden und Werkzeuge vor, die Audits erfolgreich
+  machen.
 ---
 
 # Worum geht's hier?
+
+## Zur Struktur 
+
+Der ISO Standard 19021ist eine Anleitung für das Auditieren von Management Systemen. In diesem Online Buch werden die wichtigsten Prinzipien vorgestellt und in eine praxisnahe Form übersetzt. Tips und Tricks aus der Praxis machen den ISO Standard pragmatisch anwendbar und verständlich. 
 
 ## Wieso dieses Online Buch? 
 
